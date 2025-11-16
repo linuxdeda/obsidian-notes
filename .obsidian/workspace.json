@@ -11,14 +11,10 @@
             "id": "76fe78e94dbff884",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZSHRC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ZSHRC"
+              "title": "New tab"
             }
           }
         ]
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZSHRC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ZSHRC"
+              "title": "Outgoing links"
             }
           },
           {
@@ -155,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZSHRC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ZSHRC"
+              "title": "Outline"
             }
           },
           {
@@ -193,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d01201e288b6c594",
+  "active": "76fe78e94dbff884",
   "lastOpenFiles": [
+    "ZSHRC.md",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/regexp/test-data/word-boundary.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/regexp/test-data/subexpression.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/regexp/test-data/complex.zsh",
@@ -205,7 +200,6 @@
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/time-and-nocorrect2.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/time-and-nocorrect1.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/tilde-command-word.zsh",
-    "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-redirection3.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/root.md",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/regexp.md",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/pattern.md",
