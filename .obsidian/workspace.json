@@ -11,10 +11,14 @@
             "id": "76fe78e94dbff884",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test za obsidian!.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test za obsidian!"
             }
           }
         ]
@@ -187,6 +191,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fe78e94dbff884",
-  "lastOpenFiles": []
+  "active": "d01201e288b6c594",
+  "lastOpenFiles": [
+    "Test za obsidian!.md"
+  ]
 }
