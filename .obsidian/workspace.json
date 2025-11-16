@@ -187,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fe78e94dbff884",
+  "active": "d01201e288b6c594",
   "lastOpenFiles": [
+    "Files/oh-my-zsh",
     "ZSHRC.md",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/regexp/test-data/word-boundary.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/regexp/test-data/subexpression.zsh",
@@ -233,7 +234,6 @@
     "Files/oh-my-zsh/custom/plugins/web-search/README.md",
     "Files/oh-my-zsh/custom/plugins/sudo/README.md",
     "Files/oh-my-zsh/custom/plugins/git/README.md",
-    "Files/oh-my-zsh/custom/plugins/fast-syntax-highlighting/THEME_GUIDE.md",
-    "Files/oh-my-zsh/custom/plugins/fast-syntax-highlighting/README.md"
+    "Files/oh-my-zsh/custom/plugins/fast-syntax-highlighting/THEME_GUIDE.md"
   ]
 }
