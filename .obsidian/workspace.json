@@ -11,14 +11,14 @@
             "id": "76fe78e94dbff884",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "oh-my-zsh",
-                "bFile": "oh-my-zsh",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: oh-my-zsh"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -191,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fe78e94dbff884",
+  "active": "98592cb7d99f4849",
   "lastOpenFiles": [
+    "Notes/Купопродајни уговор.docx",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/vi-linewise-mode.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/vanilla-newline.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/unknown-command.zsh",
@@ -203,7 +204,6 @@
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-redirection3.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-redirection2.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-redirection.zsh",
-    "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-longopt.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/root.md",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/regexp.md",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/pattern.md",
