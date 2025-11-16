@@ -11,10 +11,14 @@
             "id": "76fe78e94dbff884",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "oh-my-zsh",
+                "bFile": "oh-my-zsh",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: oh-my-zsh"
             }
           }
         ]
@@ -187,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d01201e288b6c594",
+  "active": "76fe78e94dbff884",
   "lastOpenFiles": [
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/vi-linewise-mode.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/vanilla-newline.zsh",
