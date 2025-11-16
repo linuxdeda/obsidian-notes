@@ -189,6 +189,7 @@
   },
   "active": "d01201e288b6c594",
   "lastOpenFiles": [
+    "Files/ohmyzsh",
     "Files/oh-my-zsh",
     "ZSHRC.md",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/regexp/test-data/word-boundary.zsh",
@@ -200,7 +201,6 @@
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/unbackslash.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/time-and-nocorrect2.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/time-and-nocorrect1.zsh",
-    "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/tilde-command-word.zsh",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/root.md",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/regexp.md",
     "Files/oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/pattern.md",
