@@ -2,7 +2,7 @@
 
 Ovaj repozitorijum sadrži moj Obsidian vault – beleške, ideje, projekti i dokumentacija na kojima radim svakodnevno.
 
-## 📘 Šta je uključeno
+📘 Šta je uključeno ?
 - Beleške organizovane po folderima
 - Interne poveznice i graf prikazi
 - Template-i i korisni snippeti
