@@ -191,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98592cb7d99f4849",
+  "active": "d01201e288b6c594",
   "lastOpenFiles": [
+    "obsidian-key.pub",
+    "obsidian-key",
     "Notes/Купопродајни уговор.docx",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/vi-linewise-mode.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/vanilla-newline.zsh",
@@ -202,8 +204,6 @@
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/time-and-nocorrect1.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/tilde-command-word.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-redirection3.zsh",
-    "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-redirection2.zsh",
-    "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/highlighters/main/test-data/sudo-redirection.zsh",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/root.md",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/regexp.md",
     "oh-my-zsh/custom/plugins/zsh-syntax-highlighting/docs/highlighters/pattern.md",
