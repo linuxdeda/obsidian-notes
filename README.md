@@ -25,4 +25,3 @@ Vault može sadržati privatne ili radne beleške, pa je struktura prilagođena 
 
 Hvala što koristiš moje beleške!  
 Ako želiš da doprineseš, slobodno otvori issue ili pull request.
- Novi test
