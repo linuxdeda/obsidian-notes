@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4aaeda97b91b09f1",
+        "id": "f020de17732c2921",
         "type": "tabs",
         "children": [
           {
-            "id": "76fe78e94dbff884",
+            "id": "7fee4dc225765b13",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fe78e94dbff884",
+  "active": "7fee4dc225765b13",
   "lastOpenFiles": [
     "README.md",
     "Zdravko.pdf",
